@@ -1,3 +1,8 @@
+---
+title: 用wxDraw.js制作酷炫的小程序canvas动画
+---
+
+
 ![wxDraw](http://upload-images.jianshu.io/upload_images/1698086-8d7ff1cb9eb05a0a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
