@@ -1,5 +1,6 @@
 ---
 title: PDF全能王 – 在微信小程序里就能进行 PDF 转 Word/Excel/Epub/Mobi、PDF 压缩、编辑等功能
+date: {{ date }}
 ---
 [PDF 全能王](https://www.appinn.com/pdf-quannengwang-for-wechat-miniapp/) 是一款微信小程序，它可以直接加载微信聊天中的 PDF 文档进行转换，主要功能包括 PDF 转 Word、PDF 编辑、PDF 转电子书等功能
 ![PDF全能王 - 在微信小程序里就能进行 PDF 转 Word/Excel/Epub/Mobi、PDF 压缩、编辑等功能 1](https://img3.appinn.net/images/202009/pdfquannengwang.jpg)

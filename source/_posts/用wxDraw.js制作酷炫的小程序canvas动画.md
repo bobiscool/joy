@@ -1,5 +1,6 @@
 ---
 title: 用wxDraw.js制作酷炫的小程序canvas动画
+date: {{ date }}
 ---
 
 
